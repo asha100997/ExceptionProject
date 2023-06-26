@@ -6,7 +6,7 @@ public class Login {
 		String password="abcd";
 		try {
 		if(username.equals("admin")&&password.equals("abcd")){
-			System.out.println("Login successful");
+			System.out.println("Login");
 			
 		}
 		else {
@@ -22,5 +22,6 @@ public class Login {
 		}
 		System.out.println("Further execution");
 	}
+	
 
 }
