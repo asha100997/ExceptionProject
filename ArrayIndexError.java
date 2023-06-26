@@ -2,7 +2,7 @@ package Exception;
 
 public class ArrayIndexError {
 	public static void main(String[] args) {
-		String[]x= {"uma","rani","amu"};
+		String[]x= {"uma","rani","amutha"};
 		try {
 		System.out.println(x[4]);
 	}
